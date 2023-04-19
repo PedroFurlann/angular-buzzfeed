@@ -43,7 +43,7 @@
       "id":5,
       "question": "Qual o seu apelido de super ser ?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
+        {"id": 1, "name":"O Terrível", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
       ]
     }
