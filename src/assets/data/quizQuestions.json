@@ -35,7 +35,7 @@
     },
     {
       "id":5,
-      "question": "Se tivesse que escolher trabalhar com um, qual escolheria ?",
+      "question": "Se tivesse que escolher trabalhar com apenas um, qual escolheria?",
       "options":[
         {"id": 1, "name":"Trabalhar com a estilização de uma aplicação", "alias":"A"},
         {"id": 2, "name":"Trabalhar com a segurança e regras de negócio de uma aplicação", "alias":"B"}
