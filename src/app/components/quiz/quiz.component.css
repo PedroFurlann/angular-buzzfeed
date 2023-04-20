@@ -38,6 +38,7 @@
   justify-content: center;
   margin: auto;
   margin-bottom: 1.25rem;
+  gap: 1rem;
 }
 
 .btn-option {
