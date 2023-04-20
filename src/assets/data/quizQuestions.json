@@ -3,7 +3,7 @@
   "questions":[
     {
       "id":1,
-      "question": "O quê mais importa para você em uma aplicação?",
+      "question": "O que mais importa para você em uma aplicação?",
       "options":[
         {"id": 1, "name":"Causar boa impressão com o visual da sua aplicação", "alias":"A"},
         {"id": 2, "name":"Manipular a parte mais lógica da aplicação", "alias":"B"}
