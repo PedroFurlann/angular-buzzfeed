@@ -1,55 +1,49 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Qual stack de desenvolvimento mais combina com você, Front-end ou Back-end?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "O quê mais importa para você em uma aplicação?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"Causar boa impressão com o visual da sua aplicação", "alias":"A"},
+        {"id": 2, "name":"Manipular a parte mais lógica da aplicação", "alias":"B"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Quando entra em um site, qual opção te desperta mais curiosidade?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Cores, efeitos visuais e a interação proporcionada pelo site", "alias":"A"},
+        {"id": 2, "name":"Como o site consegue organizar e criar suas funcionalidades e serviços", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Quando utiliza algum site ou aplicativo, o que é essencial para você?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"O desempenho da aplicação e sua velocidade são de prioridade primária", "alias":"B"},
+        {"id": 2, "name":"O visual e a interação são a maior prioridade ", "alias":"A"}
       ]
     },
     {
       "id":4,
-      "question": "Qual o seu maior foco ?",
+      "question": "Se você tivesse a tarefa de criar um carro, qual dessas atividades escolheria?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Projetar o motor e as funcionalidades que ficam fora do alcance do cliente", "alias":"B"},
+        {"id": 2, "name":"Projetar as funcionalidades que interagem diretamente com o cliente", "alias":"A"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Se tivesse que escolher trabalhar com um, qual escolheria ?",
       "options":[
-        {"id": 1, "name":"O Terrível", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Trabalhar com a estilização de uma aplicação", "alias":"A"},
+        {"id": 2, "name":"Trabalhar com a segurança e regras de negócio de uma aplicação", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super herói!"
+    "A": "Você provavelmente tem mais aptidão para ser um desenvolvedor Front-end!",
+    "B": "Você provavelmente tem mais aptidão para ser um desenvolvedor Back-end!"
   }
 }
